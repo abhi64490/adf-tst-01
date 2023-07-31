@@ -1,0 +1,9 @@
+{
+	"name": "adf-tst-01",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c6d7ce97-b07c-4946-88a2-1a835861b0cd",
+		"tenantId": "6cae1fed-e991-4397-ab85-5ebae6fb8f11"
+	}
+}
